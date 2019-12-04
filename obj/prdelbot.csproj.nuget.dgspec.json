@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/var/app/prdelbot/prdelbot.csproj": {}
+  },
+  "projects": {
+    "/var/app/prdelbot/prdelbot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/app/prdelbot/prdelbot.csproj",
+        "projectName": "prdelbot",
+        "projectPath": "/var/app/prdelbot/prdelbot.csproj",
+        "packagesPath": "/home/mega/.nuget/packages/",
+        "outputPath": "/var/app/prdelbot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mega/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            },
+            "DSharpPlus.VoiceNext": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

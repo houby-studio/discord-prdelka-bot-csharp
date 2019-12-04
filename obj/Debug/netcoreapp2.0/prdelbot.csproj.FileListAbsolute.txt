@@ -1,0 +1,11 @@
+C:\Users\megastary\source\repos\prdelbot\prdelbot\bin\Debug\netcoreapp2.0\prdelbot.deps.json
+C:\Users\megastary\source\repos\prdelbot\prdelbot\bin\Debug\netcoreapp2.0\prdelbot.runtimeconfig.json
+C:\Users\megastary\source\repos\prdelbot\prdelbot\bin\Debug\netcoreapp2.0\prdelbot.runtimeconfig.dev.json
+C:\Users\megastary\source\repos\prdelbot\prdelbot\bin\Debug\netcoreapp2.0\prdelbot.dll
+C:\Users\megastary\source\repos\prdelbot\prdelbot\obj\Debug\netcoreapp2.0\prdelbot.csproj.CoreCompileInputs.cache
+C:\Users\megastary\source\repos\prdelbot\prdelbot\obj\Debug\netcoreapp2.0\prdelbot.AssemblyInfoInputs.cache
+C:\Users\megastary\source\repos\prdelbot\prdelbot\obj\Debug\netcoreapp2.0\prdelbot.AssemblyInfo.cs
+C:\Users\megastary\source\repos\prdelbot\prdelbot\bin\Debug\netcoreapp2.0\prdelbot.pdb
+C:\Users\megastary\source\repos\prdelbot\prdelbot\obj\Debug\netcoreapp2.0\prdelbot.dll
+C:\Users\megastary\source\repos\prdelbot\prdelbot\obj\Debug\netcoreapp2.0\prdelbot.pdb
+C:\Users\megastary\source\repos\prdelbot\prdelbot\obj\Debug\netcoreapp2.0\prdelbot.csprojAssemblyReference.cache

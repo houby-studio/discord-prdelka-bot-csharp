@@ -1,0 +1,17 @@
+/var/app/prdelbot/bin/Release/netcoreapp3.0/prdelbot
+/var/app/prdelbot/bin/Release/netcoreapp3.0/prdelbot.deps.json
+/var/app/prdelbot/bin/Release/netcoreapp3.0/prdelbot.runtimeconfig.json
+/var/app/prdelbot/bin/Release/netcoreapp3.0/prdelbot.runtimeconfig.dev.json
+/var/app/prdelbot/bin/Release/netcoreapp3.0/prdelbot.dll
+/var/app/prdelbot/bin/Release/netcoreapp3.0/prdelbot.pdb
+/var/app/prdelbot/bin/Release/netcoreapp3.0/DSharpPlus.dll
+/var/app/prdelbot/bin/Release/netcoreapp3.0/DSharpPlus.CommandsNext.dll
+/var/app/prdelbot/bin/Release/netcoreapp3.0/DSharpPlus.Interactivity.dll
+/var/app/prdelbot/bin/Release/netcoreapp3.0/DSharpPlus.VoiceNext.dll
+/var/app/prdelbot/bin/Release/netcoreapp3.0/Newtonsoft.Json.dll
+/var/app/prdelbot/obj/Release/netcoreapp3.0/prdelbot.csprojAssemblyReference.cache
+/var/app/prdelbot/obj/Release/netcoreapp3.0/prdelbot.AssemblyInfoInputs.cache
+/var/app/prdelbot/obj/Release/netcoreapp3.0/prdelbot.AssemblyInfo.cs
+/var/app/prdelbot/obj/Release/netcoreapp3.0/prdelbot.csproj.CopyComplete
+/var/app/prdelbot/obj/Release/netcoreapp3.0/prdelbot.dll
+/var/app/prdelbot/obj/Release/netcoreapp3.0/prdelbot.pdb

@@ -1,0 +1,6 @@
+{
+    "token": "DiscordBotSecretT0ken",
+    "prefix": "~",
+    "datapath": "/var/app/bot/data",
+    "webpath": "/var/www/example.com/public_html/pages/01.blog"
+}
